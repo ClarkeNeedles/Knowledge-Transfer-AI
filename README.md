@@ -33,8 +33,10 @@ It combines:
 - [Repository layout](#repository-structure)
 - [Getting started](#getting-started)
 - [Environment variables](#environment-variables)
-- [How to use (developer examples)](#how-to-use-developer-examples)
-- [Where to get help](#where-to-get-help)
+- [How to use](#how-to-use)
+- [System flow](#system-flow)
+- [Why this project matters](#why-this-project-matters)
+- [Support](#support)
 - [License & acknowledgements](#license--acknowledgements)
 
 ---
@@ -173,6 +175,16 @@ Important:
 
 ---
 
+## How to Use
+
+* Select role in onboarding
+* Browse generated lectures
+* Open “Learn” page for AI explanations
+* Listen to audio narration (ElevenLabs)
+* Extend API layer in `src/services/api`
+
+---
+
 ## System Flow
 
 1. User completes onboarding (role + industry)
@@ -181,16 +193,6 @@ Important:
 4. Backboard API generates AI responses
 5. ElevenLabs converts text to speech
 6. Frontend renders interactive learning experience
-
----
-
-## How to Use
-
-* Select role in onboarding
-* Browse generated lectures
-* Open “Learn” page for AI explanations
-* Listen to audio narration (ElevenLabs)
-* Extend API layer in `src/services/api`
 
 ---
 

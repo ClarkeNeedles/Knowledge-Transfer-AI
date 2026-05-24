@@ -138,7 +138,7 @@ Important paths (relative links):
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 16+
@@ -163,7 +163,7 @@ http://localhost:5173 or similar
 
 ---
 
-## 🌐 Environment Variables
+## Environment Variables
 
 Create a `.env.local` file:
 
@@ -176,7 +176,7 @@ Important:
 
 ---
 
-## 🧠 System Flow
+## System Flow
 
 1. User completes onboarding (role + industry)
 2. Frontend requests personalized content
@@ -187,7 +187,7 @@ Important:
 
 ---
 
-## 📄 How to Use
+## How to Use
 
 * Select role in onboarding
 * Browse generated lectures
@@ -197,7 +197,7 @@ Important:
 
 ---
 
-## 📌 Why This Project Matters
+## Why This Project Matters
 
 * Demonstrates real-world AI integration
 * Combines retrieval + generative AI + speech synthesis
@@ -206,7 +206,7 @@ Important:
 
 ---
 
-## 📬 Support
+## Support
 
 * GitHub Issues for bugs or feature requests
 * Frontend docs in `frontend/react-app/README.md`
@@ -214,7 +214,7 @@ Important:
 
 ---
 
-## 📜 License & Acknowledgements
+## License & Acknowledgements
 
 MIT License
 

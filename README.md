@@ -1,6 +1,6 @@
 # Knowledge-Transfer-AI
 
-[![license](https://img.shields.io/github/license/GitNH27/Knowledge-Transfer-AI.svg)]()
+[![license](https://img.shields.io/github/license/GitNH27/Knowledge-Transfer-AI.svg)](LICENSE)
 [![repo size](https://img.shields.io/github/repo-size/GitNH27/Knowledge-Transfer-AI.svg)]()
 
 ---
